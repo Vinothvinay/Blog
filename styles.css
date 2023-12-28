@@ -1,0 +1,92 @@
+.zeroth{
+    display: flex;
+    flex-direction:column;
+}
+.first{
+    background-color:#FFDB58;
+    height: 600px;
+    width: 300px;
+    padding-bottom:20px;
+    
+   
+
+    margin: 0px auto;
+    
+}
+
+
+.second{
+    clear: both;
+    margin-top: 40px;
+    background-color: white;
+    border-right:10px solid black;
+    border-bottom:10px solid black;
+    border-radius: 20px;
+    width:200px;
+    height:350px;
+}
+.third{
+    margin-top:0px;
+}
+img{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left:10px;
+    float: left;
+    
+}
+.fourth{
+    background-color:#FFDB58;
+    margin-top:10px;
+    border-radius:4px;
+    margin:15px;
+    font-size:14.5px;
+    float: left;
+    width:80px;
+    height:20px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+    
+    
+}
+small{
+    float:left;
+    
+    font-size:10px;
+    margin-left:15px;
+}
+h6{float:left;
+    margin-left:15px;
+}
+p{
+    float:left;
+    font-size:9px;
+    margin-left:15px;
+    margin-right:10px;
+    margin-top: 0px;
+    
+    
+}
+.fifth{
+    
+    display: block;
+    margin-right:auto;
+    padding-bottom: 15px;
+    
+    float: left;
+    clear: left;
+    /* Additional styles for the second image */
+
+    
+    
+    float:left;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+article{
+    font-size:10px;
+    margin-top:21px;
+}
